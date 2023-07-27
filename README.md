@@ -1,2 +1,2 @@
-# 1º Dashboard_vendas
+# Dashboard_vendas
 ![Alt text](dashboard.png?raw=true "Dashboard")
